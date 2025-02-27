@@ -1,1 +1,2 @@
 laptop_1
+desk_1
